@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinayak Ravichandran.
-- 👀 I’m interested in data science and software development. I hope to soon get involved with either machine learning or cloud software.
+- 👀 I’m interested in software development and hope to soon get involved with cloud software and web application services.
 - 🌱 I’m currently pursuing a B.S. in Computer Science and a B.S. in Applied Mathematics.
 - 💞️ I’m looking to collaborate on introductory professional projects to acclimate myself with a workflow similar to industry.
 - 📫 You can reach me at: vinayak1ravichandran@gmail.com
