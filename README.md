@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vinayak Ravichandran.
-- 👀 I’m interested in software development and hope to soon get involved with cloud software and web application services.
-- 🌱 I’m currently pursuing a B.S. in Computer Science and a B.S. in Applied Mathematics.
-- 💞️ I’m looking to collaborate on introductory professional projects to acclimate myself with a workflow similar to industry.
+- 👀 I have experience working as a cloud software engineer (intern) and have interests in machine learning, data science, and mathematical modeling.
+- 🌱 I’m currently pursuing a B.S. in Computer Science and a B.S. in Applied Mathematics from North Carolina State University.
 - 📫 You can reach me at: vinayak1ravichandran@gmail.com
 
 <!---
